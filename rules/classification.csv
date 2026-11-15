@@ -1,0 +1,37 @@
+factor,genetic_position,population_position,individual_position,divergence,mechanism_test,class
+SBP,"1
+4/6 comparisons; 
+persists in MVMR","1
+median 63.1%; 
+rank 1 in 10/10","1
+1.37 (1.26–1.48)","None
+no flag; 
+positions identical","Not required. M1's precondition fails: the TMREL window (110–115 mmHg) lies within the cohort's range but carries no gradient inside it (0.94, 0.87–1.01 at 110 against a referent of 115). Little risk can be concealed within a 5 mmHg band, so the narrowness of the window is the finding rather than a limitation of the test.",C
+LDL,"2
+1/6, European IS, 
+FDR 0.0042; 
+persists in MVMR","2
+median 17.0%; 
+rank 2 in 9/10","not detected
+1.02 (0.94–1.11)","Yes
+not-detected criterion","M2 admitted: GBD pairs LDL with IS alone; European MR detects LDL–IS while no haemorrhagic estimate survives correction; and C1 has a materially lower IS share than C2 (39–42% vs 58–75% of stroke DALYs). CHARLS aggregates subtypes, so M2 supports a qualitative explanation for the cohort non-detection, but cannot quantify its contribution without subtype-resolved outcomes.",SED
+BMI,"3
+1/6, European IS, 
+FDR 0.01; 
+attenuates in MVMR to 1.002","5
+median 8.7%; 
+rank 5 in 8/10","2
+1.22 (1.14–1.30)","Yes
+positional, 3 places","M1 admitted: the TMREL window 20–25 kg/m² lies within the cohort's range and the gradient inside it is 1.80 (1.48–2.18), nonlinearity FDR p=0.0093; predicted direction matches. M3 admitted: univariable 1.030 (FDR 0.01) attenuates to 1.002 (FDR 0.87) on mutual adjustment. M2 declined on direction: the genetic effect is confined to a single subtype and that subtype is a minority of the aggregated outcome, but the cohort detects BMI, so the pattern M2 predicts does not obtain.",SED
+FG,"not detected
+0/6","4
+median 9.6%; 
+rank 4 in 6/10","3
+1.10 (1.04–1.17)","Yes
+not-detected criterion","M1 not admitted: the population and individual streams are adjacent, fourth and third, a gap below the recording threshold, so the divergence M1 explains is not present. Its precondition holds, with the window covered and a within-window gradient of 1.17 (1.05–1.31), but that alone does not admit a mechanism. M2 not admitted: precondition fails, the genetic effect being confined to no subtype. M3 not admitted: no univariable association to attenuate. M4 not admitted: null in both instrumented ancestries. X1 excludes confounding.",UD
+KD,"not detected
+0/6","3
+median 11.4%; 
+rank 3 in 7/10","not detected
+1.02 (0.93–1.12)","Yes
+not-detected criterion","M1 not admitted: precondition fails, the GBD window being defined on eGFR and albumin-to-creatinine ratio while the cohort measured eGFR alone, so the window is not covered and no within-window contrast is possible. The direction requirement, which the observed arrangement would also fail, is never reached. M2, M3, M4 not admitted: no subtype specificity, no association to attenuate, null in all ancestries. X2 excludes prevalence-driven attribution.",UD

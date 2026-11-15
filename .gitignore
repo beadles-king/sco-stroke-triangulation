@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+data/
+output/
+*.tif
+*.tiff
+*.pdf
